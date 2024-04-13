@@ -1,0 +1,76 @@
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\appsettings.Development.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\appsettings.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.staticwebassets.runtime.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.exe
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.deps.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.runtimeconfig.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.pdb
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.csproj.AssemblyReference.cache
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.AssemblyInfoInputs.cache
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.AssemblyInfo.cs
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.csproj.CoreCompileInputs.cache
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.RazorAssemblyInfo.cache
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.RazorAssemblyInfo.cs
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.AlM_Examen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.build.AlM_Examen.props
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlM_Examen.props
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.AlM_Examen.props
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\scopedcss\bundle\AlM_Examen.styles.css
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\scopedcss\projectbundle\AlM_Examen.bundle.scp.css
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.csproj.Up2Date
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\refint\AlM_Examen.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.pdb
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.genruntimeconfig.cache
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\ref\AlM_Examen.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\appsettings.Development.json
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\appsettings.json
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.staticwebassets.runtime.json
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.exe
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.deps.json
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.runtimeconfig.json
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\AlM_Examen.pdb
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AlM_Examen\AlM_Examen\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.csproj.AssemblyReference.cache
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.AssemblyInfoInputs.cache
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.AssemblyInfo.cs
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.csproj.CoreCompileInputs.cache
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.MvcApplicationPartsAssemblyInfo.cache
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.RazorAssemblyInfo.cache
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.RazorAssemblyInfo.cs
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets.build.json
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets.development.json
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.AlM_Examen.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.build.AlM_Examen.props
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlM_Examen.props
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.AlM_Examen.props
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\staticwebassets.pack.json
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\scopedcss\bundle\AlM_Examen.styles.css
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\scopedcss\projectbundle\AlM_Examen.bundle.scp.css
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.csproj.Up2Date
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.dll
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\refint\AlM_Examen.dll
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.pdb
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\AlM_Examen.genruntimeconfig.cache
+C:\AlM_Examen\AlM_Examen\obj\Release\net8.0\ref\AlM_Examen.dll

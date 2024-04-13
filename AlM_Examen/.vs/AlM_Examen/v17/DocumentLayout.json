@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AlM_Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\repositorios\\implementacion\\productoproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\repositorios\\implementacion\\productoproveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\repositorios\\implementacion\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\repositorios\\implementacion\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|c:\\alm_examen\\alm_examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83050BF6-F338-4862-93F5-B7775F04F758}|AlM_Examen\\AlM_Examen.csproj|solutionrelative:alm_examen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\appsettings.json",
+              "RelativeDocumentMoniker": "AlM_Examen\\appsettings.json",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\appsettings.json",
+              "RelativeToolTip": "AlM_Examen\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T03:16:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.js",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\wwwroot\\js\\Index.js",
+              "RelativeDocumentMoniker": "AlM_Examen\\wwwroot\\js\\Index.js",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\wwwroot\\js\\Index.js",
+              "RelativeToolTip": "AlM_Examen\\wwwroot\\js\\Index.js",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAtwDoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-13T02:57:24.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\Repositorios\\Implementacion\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "AlM_Examen\\Repositorios\\Implementacion\\ProductoRepository.cs",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\Repositorios\\Implementacion\\ProductoRepository.cs",
+              "RelativeToolTip": "AlM_Examen\\Repositorios\\Implementacion\\ProductoRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwFwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T02:53:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoProveedorRepository.cs",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\Repositorios\\Implementacion\\ProductoProveedorRepository.cs",
+              "RelativeDocumentMoniker": "AlM_Examen\\Repositorios\\Implementacion\\ProductoProveedorRepository.cs",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\Repositorios\\Implementacion\\ProductoProveedorRepository.cs",
+              "RelativeToolTip": "AlM_Examen\\Repositorios\\Implementacion\\ProductoProveedorRepository.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T02:53:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\Program.cs",
+              "RelativeDocumentMoniker": "AlM_Examen\\Program.cs",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\Program.cs",
+              "RelativeToolTip": "AlM_Examen\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:54:29.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AlM_Examen\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AlM_Examen\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAA5wHEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T23:43:14.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AlM_Examen\\AlM_Examen\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlM_Examen\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\AlM_Examen\\AlM_Examen\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AlM_Examen\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAgwHMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T22:35:00.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AlM_Examen.props" />
+</Project>

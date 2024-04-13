@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row justify-content-center">
+    <div class="col-10">
+        <div class="alert alert-info" role="alert">
+            DISTRIBUIDORA
+        </div>
+        <button type="button" class="btn btn-success btn-sm boton-nuevo-producto">Nuevo Producto</button>
+        <input class="ms-4" id="txtBuscaNombre" type="text" placeholder="Producto" onkeyup="search()" />
+        <input class="ms-4" id="txtBuscaClave" type="text" placeholder="Clave" onkeyup="search()" />
+        <table class="table table-striped" id="tablaProductos">
+            <thead>
+                <tr>
+                    <th> Producto</th>
+                    <th> Clave Producto </th>
+                    <th> Precio </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Modal Agregar/Editar -->
+<div class="modal fade" id="ModalProductos" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Modal Productos</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label  class="form-label">Nombre Producto</label>
+                    <input type="text" class="form-control" id="txtNombre" autocomplete="off">
+                </div>
+                <div class="mb-3">
+                    <label  class="form-label">Clave</label>
+                    <input type="text" class="form-control" id="txtClave" autocomplete="off">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Precio</label>
+                    <input type="number" class="form-control" id="txtPrecio" autocomplete="off">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Tipo Producto</label>
+                    <select class="form-select" id="cboTipoProducto"></select>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="checkActivo">
+                    <label class="form-check-label" for="flexCheckDefault">
+                        Es Activo
+                    </label>
+                </div>               
+
+                </div>
+
+            <div class="align-content-center">
+            <table class="table" id="tablaProveedores">
+                <thead>
+                    <tr>
+                        <th scope="col">Proveedor</th>
+                        <th scope="col">Clave Producto</th>
+                        <th scope="col">Costo</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
+                <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                <button type="button" class="btn btn-outline-secondary boton-agregar-proveedor">Agregar proveedor</button>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary boton-guardar-cambios-producto">Guardar</button>
+                </div>
+            </div>
+
+
+            </div>
+            
+        </div>
+    </div>
+
+<!-- Modal Proveedores-->
+<div class="modal fade" id="ModalProveedores" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="exampleModalLabel">Modal Proveedor</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label class="form-label">Proveedor</label>
+                    <select class="form-select" id="cboProveedor"></select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Clave</label>
+                    <input type="text" class="form-control" id="txtClaveP" autocomplete="off">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Precio</label>
+                    <input type="text" class="form-control" id="txtPrecioP" autocomplete="off">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary boton-guardar-cambios-proveedor">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+@section Scripts{
+    <script src="~/js/index.js"></script>
+}

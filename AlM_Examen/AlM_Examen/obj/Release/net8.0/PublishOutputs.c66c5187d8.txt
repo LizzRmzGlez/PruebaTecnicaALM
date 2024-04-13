@@ -1,0 +1,13 @@
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\AlM_Examen.exe
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\AlM_Examen.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\AlM_Examen.deps.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\AlM_Examen.runtimeconfig.json
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\AlM_Examen.pdb
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USR\Downloads\AlM_Examen (2)\AlM_Examen\AlM_Examen\obj\Release\net8.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
